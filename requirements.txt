@@ -3,7 +3,6 @@ jupyter
 pandas
 nltk
 scikit-learn
-nlpnet
 gensim
 unidecode
 xlrd
